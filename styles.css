@@ -26,6 +26,10 @@ body {
     align-items: center;
 }
 
+.container page-header{
+    position:fixed;
+}
+
 .img-w {
     width: 100%;
     border-radius: 10%;
