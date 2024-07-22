@@ -27,7 +27,7 @@ body {
 }
 
 .container page-header{
-    
+    position:fixed;
 }
 
 .img-w {
